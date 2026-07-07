@@ -22,6 +22,7 @@ This dataset contains detailed information related to Blinkit's grocery sales an
 •	Outlet Location Type 
 •	Outlet Type 
 The dataset is ideal for performing retail sales analysis, identifying business trends, evaluating outlet performance, and creating interactive dashboards using Power BI. 
-# Dataset Link
+### Dataset Link
 Kaggle: https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset
+
 
