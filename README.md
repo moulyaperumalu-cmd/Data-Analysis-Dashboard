@@ -34,6 +34,10 @@ The Blinkit Grocery Sales Dashboard is an interactive business intelligence repo
 The dashboard helps managers identify top-performing outlets, understand customer buying patterns, compare sales across product categories, and evaluate overall business performance.
 
 
+## Dashboard :
+<https://github.com/moulyaperumalu-cmd/Data-Analysis-Dashboard/blob/main/Blinkit%20Sales%20Report%20Screenshort%20.png>
+
+
 ## Key Performance Indicators (KPIs) :
 The dashboard answers the following business questions:
 ### Sales KPIs :
