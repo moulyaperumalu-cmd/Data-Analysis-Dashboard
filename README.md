@@ -36,6 +36,8 @@ The dashboard helps managers identify top-performing outlets, understand custome
 
 ## Dashboard :
 <https://github.com/moulyaperumalu-cmd/Data-Analysis-Dashboard/blob/main/Blinkit%20Sales%20Report%20Screenshort%20.png>
+<img width="1346" height="742" alt="Blinkit Sales Report Screenshort " src="https://github.com/user-attachments/assets/8c6297f0-f198-48fb-87bf-04b1f3e6897f" />
+
 
 
 ## Key Performance Indicators (KPIs) :
